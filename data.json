@@ -1,0 +1,94 @@
+[
+  {
+    "title": "TESTING REVALIDATE UPDATED 2",
+    "description": "asasasa",
+    "link": "http://localhost:8000/banners/edit",
+    "priority": "2",
+    "timeToFinish": "1",
+    "createdAt": "2023-04-20T13:01:09.671Z",
+    "status": "complete",
+    "id": "1681995669671",
+    "activationTime": "2023-04-24T08:22:33.842Z"
+  },
+  {
+    "title": "Fallback False",
+    "description": "Fallback False",
+    "link": "Fallback False",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2023-04-20T13:01:09.671Z",
+    "status": "inactive",
+    "id": "my-new-id"
+  },
+  {
+    "title": "Test dua satu",
+    "description": "test dua satu",
+    "link": "just some link dua satu",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2023-04-20T12:45:01.062Z",
+    "status": "inactive",
+    "id": "1681994701062"
+  },
+  {
+    "title": "Meaningful data title",
+    "description": "Meaningful data desc",
+    "link": "just some link",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2023-04-20T12:36:49.641Z",
+    "status": "inactive",
+    "id": "1681994209641"
+  },
+  {
+    "title": "Learn foreign language ",
+    "description": "Learn German",
+    "link": "placeholder",
+    "priority": "1",
+    "timeToFinish": "1",
+    "createdAt": "2021-03-24T15:12:57.915Z",
+    "status": "complete",
+    "id": "1616598777915",
+    "activationTime": "2021-03-24T15:13:40.775Z"
+  },
+  {
+    "title": "Learning Javascript language",
+    "description": "Learn modular and singleton design pattern",
+    "link": "some link",
+    "priority": "2",
+    "timeToFinish": "120",
+    "createdAt": "2021-03-19T12:14:58.007Z",
+    "status": "complete",
+    "id": "1616156098007"
+  },
+  {
+    "title": "Read Book",
+    "description": "Read book obout computer architecture",
+    "link": "another link",
+    "priority": "1",
+    "timeToFinish": 60,
+    "createdAt": "2021-03-19T12:02:16.038Z",
+    "status": "inactive",
+    "id": "1616155336038"
+  },
+  {
+    "title": "Reusable components",
+    "description": "Learn how to create reusable components in Angular",
+    "link": "Reusable components NEW UPDATE",
+    "priority": "1",
+    "timeToFinish": "120",
+    "createdAt": "2021-03-19T11:45:29.325Z",
+    "status": "inactive",
+    "id": "1616154329325"
+  },
+  {
+    "title": "Take a nap",
+    "description": "Just take a nap friend, you deserve it!",
+    "link": "Testin save",
+    "priority": "1",
+    "timeToFinish": 60,
+    "createdAt": "2021-03-18T09:28:52.036Z",
+    "status": "complete",
+    "id": "1616059732036"
+  }
+]
